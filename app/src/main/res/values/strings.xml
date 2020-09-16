@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="employee_data">Employee Data</string>
+    <string name="e_name">Name</string>
+    <string name="e_email">Email ID</string>
+    <string name="e_phone">Phone Number</string>
+    <string name="submit">Submit</string>
+    <string name="retrieve">Retrieve</string>
+</resources>
